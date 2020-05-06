@@ -1,5 +1,7 @@
 # Save-Kerala
 It is a DRM app developed for Covid19 Hackathon conducted by Anna University, Trichy
+# Demo Link
+[Demo Video of the Application](https://drive.google.com/open?id=1UdKRxRmtyjBIJSMYJjqoNw8yJX-2aT6l)
 # Screenshots
 ## Dashboard
 ![Dashboard](/screenshots/dashboard.jpg)
