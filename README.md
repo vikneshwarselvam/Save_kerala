@@ -7,7 +7,7 @@ It is a DRM app developed for Covid19 Hackathon conducted by Anna University, Tr
 ![Dashboard](/screenshots/dashboard.jpg)
 ## Covid Dashboard
 [link to kerala dashboard](https://dashboard.kerala.gov.in)
-![Covid-dashboard](/screenshots/covid_dashboard.jpg)
+![Covid-dashboard](/screenshots/dashboard_covid.jpg)
 ## Online-Courses(Module - 1)
 ![online](/screenshots/online-course.jpg)
 ![video](/screenshots/video.jpg)
@@ -27,6 +27,6 @@ It is a DRM app developed for Covid19 Hackathon conducted by Anna University, Tr
 ![stores](/screenshots/medical.jpg)
 ## Chatbot
 #### (Under development)
-![chatbot](/screenshots/chatbot.jpg)
+![chatbot](/screenshots/chatbot_screen.jpg)
 # Acknowledgement
 I have used Dashboard from [GOK dashboard](https://dashboard.kerala.gov.in)
