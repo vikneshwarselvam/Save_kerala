@@ -29,4 +29,4 @@ It is a DRM app developed for Covid19 Hackathon conducted by Anna University, Tr
 #### (Under development)
 ![chatbot](/screenshots/chatbot_screen.jpg)
 # Acknowledgement
-I have used Dashboard from [GOK dashboard](https://dashboard.kerala.gov.in)
+I have used some charts from [GOK dashboard](https://dashboard.kerala.gov.in)
